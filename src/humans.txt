@@ -1,0 +1,17 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+  
+  Founder: Aaron Trostle.
+  Site aaron.trostle@gmail.com, aarontrostle.com.
+  Twitter: @aarontrostle
+
+# THANKS
+  
+  Everyone.
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    jQuery, Modernizr
